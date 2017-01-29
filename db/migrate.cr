@@ -11,3 +11,6 @@ require "../src/models/*"
 # calling prune.  Make sure you have backed up or copied any data before
 # calling this.
 # Demo.prune
+
+Home.migrate
+Home.prune

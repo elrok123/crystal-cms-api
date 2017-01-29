@@ -1,9 +1,7 @@
-include Kemalyst
-
 module HomeController
-	@welcome = ""
-  class Index < Controller
+
+	class Index < Kemalyst::Controller
 		render "home/index.ecr"
 	end
-end
 
+end
