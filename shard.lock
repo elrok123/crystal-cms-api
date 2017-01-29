@@ -1,0 +1,50 @@
+version: 1.0
+shards:
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.3.3
+
+  delimiter_tree:
+    github: drujensen/delimiter_tree
+    version: 0.1.4
+
+  kemalyst:
+    github: drujensen/kemalyst
+    version: 0.4.0
+
+  kemalyst-model:
+    github: drujensen/kemalyst-model
+    version: 0.4.0
+
+  kemalyst-spec:
+    github: drujensen/kemalyst-spec
+    version: 0.1.1
+
+  kemalyst-validators:
+    github: drujensen/kemalyst-validators
+    version: 0.1.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  mocks:
+    github: waterlink/mocks.cr
+    version: 0.9.4
+
+  pg:
+    github: will/crystal-pg
+    version: 0.13.1
+
+  singleton:
+    github: waterlink/singleton.cr
+    version: 1.0.0
+
+  slang:
+    github: jeromegn/slang
+    commit: 6f8c5b226758faf73575d02b67a8010f8e10a0ab
+
+  smtp:
+    github: raydf/smtp.cr
+    commit: 1301f244fd1e251244b0a9fb7f8bc817da9c8854
+
